@@ -115,4 +115,4 @@ Before implementing models for classification and regression, we performed sever
 
 ## Collaborators
 
-This project was worked on with the contributions of [mohd-hani](https://github.com/arcarum) and [dheemanG](https://github.com/dheemanG).
+This project was worked on with the contributions of [mohd-hani](https://github.com/mohd-hani) and [dheemanG](https://github.com/dheemanG).
