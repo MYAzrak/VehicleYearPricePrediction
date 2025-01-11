@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores statistical and machine learning techniques to predict vehicle prices and classify manufacturing year ranges using a dataset of [Australian vehicle listings](https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices). It applies exploratory data analysis (EDA), inferential statistics, and predictive modeling to uncover insights and build robust models.
+This project explores statistical and machine learning techniques to predict vehicle prices and classify manufacturing year ranges using a dataset of [Australian vehicle listings](https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices). It applies exploratory data analysis (EDA), inferential statistics, and predictive modeling to uncover insights and build robust models. For detailed technical information, refer to the accompanying `Project's Report.pdf`.
 
 ## Key Achievements
 
